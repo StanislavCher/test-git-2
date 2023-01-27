@@ -12,3 +12,6 @@
 10. git clone url - клонировать url git
 11. git init - инициализировать git
 12. git --version - узнать версию git
+
+13. git reset [files or . for all files] - remove files from the stage
+14. git diff [file]
