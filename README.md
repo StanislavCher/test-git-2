@@ -15,3 +15,8 @@
 
 13. git reset [files or . for all files] - remove files from the stage
 14. git diff [file]
+
+15. git branch - просмотр ветки
+16. git branch [name] - создание ветки
+17. git branch -d [name] - удаление ветки
+18. git checkout [name] - переключение ветки
